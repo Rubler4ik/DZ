@@ -80,10 +80,11 @@ body {
   list-style-type: none;
 }
 .izob{
-   
+    /* text-align: center; */
     height: 30%;
     width: 20%;
-    
+    /* margin-left: 45px; */
+    /* position: relative; */
     display: block;
   margin: 0 auto;
     
