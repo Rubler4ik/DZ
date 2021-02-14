@@ -80,7 +80,7 @@ body {
   list-style-type: none;
 }
 #izob{
-    float: left;
+   float: center;
     height: 30%;
     width: 20%;
     margin-left: 45px;
