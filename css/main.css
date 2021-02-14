@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&family=Source+Code+Pro:ital,wght@1,900&family=Ubuntu:ital,wght@1,300;1,700&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    
+    background: url(../img/white-abstract-background-in-3d-paper-style_23-2148403778.jpg);
+ 
+    
+}
+.book{
+    margin: auto;
+    text-align: center;
+   /*  font-family: "Arial Black"; */
+   font-family: 'Source Code Pro', monospace;
+   font-family: 'Ubuntu', sans-serif;  }
+.nav {
+    max-width: 750px;
+    margin: auto;
+    text-align: center;
+  }
+  .nav {
+    overflow: hidden;
+    margin: 25px;
+  }
+  
+  .nav li {
+    float: left;
+    margin-right: 2%;
+    list-style-type: none;
+  }
+  
+  .nav li a {
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  .nav li a:hover {
+    color: rgb(255, 0, 0);
+  }
+  #glava1{
+    margin: auto;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+   font-family: 'Ubuntu', sans-serif;  
+}
+  #glava2{
+    margin: auto;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+   font-family: 'Ubuntu', sans-serif;
+  }
+  #glava3{
+    margin: auto;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+   font-family: 'Ubuntu', sans-serif;
+}
+#glava4{
+    margin: auto;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+   font-family: 'Ubuntu', sans-serif;
+}
+#glava5{
+    margin: auto;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+   font-family: 'Ubuntu', sans-serif;
+}
+.poragraf{
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+.pred{
+    
+    font-family: 'Russo One', sans-serif;
+}
+#izob{
+    float: left;
+    height: 30%;
+    width: 20%;
+    margin-left: 45px;
+    
+}
+#imgoper{
+    width: 22px;
+    height: 180px;
+    position: fixed;
+    top: 250px;
+    right: 0;
+}
+.telme {
+    font-size: 200%;
+  }
+  
+  .telme a {
+    color: rgb(0, 0, 0);
+  }
+.sendme{
+    font-size: 200%;
+
+}
+.sendme a{
+    color: #000;
+}
+.vk{
+    font-size: 200%;
+
+}
+.vk a{
+    color: #000;
+}
