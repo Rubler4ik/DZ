@@ -75,6 +75,9 @@ body {
 .pred{
     
     font-family: 'Russo One', sans-serif;
+    float: left;
+  margin-right: 2%;
+  list-style-type: none;
 }
 #izob{
     float: left;
