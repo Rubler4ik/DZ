@@ -72,18 +72,21 @@ body {
     
     font-family: 'Ubuntu', sans-serif;
 }
-.pred{
-    
+#pred{
+   
     font-family: 'Russo One', sans-serif;
     float: left;
   margin-right: 2%;
   list-style-type: none;
 }
-#izob{
-   float: center;
+.izob{
+    /* text-align: center; */
     height: 30%;
     width: 20%;
-    margin-left: 45px;
+    /* margin-left: 45px; */
+    /* position: relative; */
+    display: block;
+  margin: 0 auto;
     
 }
 #imgoper{
